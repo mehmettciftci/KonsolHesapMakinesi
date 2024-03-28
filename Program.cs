@@ -10,6 +10,7 @@ namespace KonsolHesapMakinesi
             Console.WriteLine("Console Dinamik Hesap Makinesi");
             int birinciDeger = 0;
             bool canParse1 = false;
+            
             do
             {
                 Console.WriteLine("1. Sayıyı giriniz. Girilen değer mutlaka rakam olmalıdır.");
